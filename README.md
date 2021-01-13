@@ -1,6 +1,6 @@
 ## Android Apps with Kotlin: Custom Views - PluralSight course
 
-#Extending Views
+### Extending Views
 
  - create a ColorSlider custom view by extending a SeekBar
  - use Canvas and Paint
